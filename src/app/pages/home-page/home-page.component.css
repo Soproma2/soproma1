@@ -1,0 +1,7 @@
+.content{
+    width: 99.5%;
+    height: 100%;
+    background: radial-gradient(circle, rgba(235,235,235,1) 0%, rgba(122,122,122,1) 100%);
+    margin: auto;
+    border-radius: 10px;
+}
